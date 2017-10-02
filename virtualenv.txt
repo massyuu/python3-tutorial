@@ -1,0 +1,19 @@
+## 初期設定 ##
+
+# Python3のインストール(by Homebrew)
+brew install python3
+
+# virtualenvのインストール
+sudo easy_install virtualenv
+sudo easy_install pip
+
+# virtualenvの環境構築
+mkdir myapp
+cd myapp
+virtualenv --python="`which python3`" virtualenv
+
+# 隔離環境へ入る
+source virtualenv/bin/activate
+
+# 隔離環境を抜ける
+deactivate
