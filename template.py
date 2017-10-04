@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
 
-# import
+#  import
 from XXXXX import xxxxx
 
 # 定数宣言
