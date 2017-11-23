@@ -1,4 +1,5 @@
 # python3-tutorial
-## これは何？
-Python練習用リポジトリです。  
-記法やTipsをまとめていきます。
+
+## What's this??
+This repository is for practice.
+It will describe tips and notations.
